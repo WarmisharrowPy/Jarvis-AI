@@ -1,6 +1,8 @@
 # Jarvis-AI
 
-*******Installation*******
+**I prefer to use Pycharm IDE**
+
+Installation
 
 **For windows users**
 
