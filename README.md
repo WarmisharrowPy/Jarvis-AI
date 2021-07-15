@@ -2,7 +2,7 @@
 
 **I prefer to use Pycharm IDE**
 
-Installation
+**Installation**
 
 **For windows users**
 
